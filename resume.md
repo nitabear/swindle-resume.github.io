@@ -29,7 +29,7 @@ University of North Alabama
 
 SaltStack Certified Engineer
 : *13th Globally*
-  __January 2014__
+  __January 2014 (0x2E6A0C88)__
 
 CompTIA Network+
 : *2009 Edition*
